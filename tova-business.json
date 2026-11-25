@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:42:44.746Z",
+  "slug": "papamoa-caci",
+  "name": "Caci Papamoa",
+  "city": "Tauranga",
+  "industry": {
+    "label": "Beauty salons & nails",
+    "niche": "beauty salon",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+64 7 220 9819",
+    "email": "papamoa@caci.co.nz",
+    "address": "1B Tara Road, Papamoa Beach",
+    "hours": [
+      "Mo 10:00-14:00; Tu 11:00-18:00; We 10:00-17:00; Th 11:00-19:00; Fr 10:00-14:00"
+    ]
+  },
+  "social": {},
+  "about": {},
+  "before": {
+    "url": "https://www.papamoa.caci.co.nz/",
+    "domain": "papamoa.caci.co.nz",
+    "score": 70,
+    "assessedAt": "2026-11-10T09:06:13.512Z",
+    "issues": [
+      {
+        "id": "unreachable",
+        "title": "Website did not load",
+        "evidence": "Request to https://www.papamoa.caci.co.nz/ failed (fetch failed)."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/caci-papamoa/",
+    "repoUrl": "https://github.com/tova-studio/caci-papamoa",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:42:44.746Z"
+  }
+}
